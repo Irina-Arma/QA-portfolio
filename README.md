@@ -51,7 +51,7 @@
 
 ## 🧭 Контакты
 
-📧 Email: *[irina.golovko1991@gmail.com]*  
+📧 Email: *irina.golovko1991@gmail.com*  
 💬 Telegram: *[@Sinecdoha](https://t.me/Sinecdoha)*
 
 ---
