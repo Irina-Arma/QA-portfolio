@@ -12,7 +12,7 @@
 
 ## Проект 1: UI-тестирование таск-менеджера SHTAB
 
-📁 Репозиторий: [shtab-testing](https://github.com/Irina-Arma/shtab-testing)
+Репозиторий: [shtab-testing](https://github.com/Irina-Arma/shtab-testing)
 
 **Описание**:  
 Функциональное тестирование интерфейса таск-менеджера [SHTAB](https://shtab.app/) — создание задач, фильтрация, редактирование, работа с файлами и метками.
@@ -26,7 +26,7 @@
 
 ## Проект 2: Тестирование API Swagger Petstore
 
-📁 Репозиторий: [swagger-petstore-api-testing](https://github.com/Irina-Arma/swagger-petstore-api-testing)
+Репозиторий: [swagger-petstore-api-testing](https://github.com/Irina-Arma/swagger-petstore-api-testing)
 
 **Описание**:  
 Тестирование REST API публичного демо-сервиса [Swagger Petstore](https://petstore.swagger.io/).  
@@ -42,7 +42,7 @@
 
 ## Проект 3: SQL Learning Portfolio
 
-📁 Репозиторий: [sql-practice](https://github.com/Irina-Arma/sql-practice)
+Репозиторий: [sql-practice](https://github.com/Irina-Arma/sql-practice)
 
 **Описание**:
 Репозиторий посвящён моему освоению SQL. Здесь собраны практические примеры запросов.
